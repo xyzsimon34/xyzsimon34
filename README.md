@@ -12,14 +12,9 @@ contract BlockchainEngineer {
 
     constructor() {
         name = "Simon-Lin";
-        role = "Blockchain Developer";
+        role = "Web3 enthusiast";
         language_spoken = ["zh_CN"];
     }
-
-    function sayHi() public pure returns (string memory) {
-        return "Thanks for dropping by, hope you find some of my work interesting.";
-    }
-}
 ```
 
 ![Simon Lin GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34)
