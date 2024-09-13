@@ -21,7 +21,7 @@ contract BlockchainEngineer {
 
 ## 📝 Blogs
 
-- Personal website and blog: 
+- Personal website and blog:https://medium.com/@rzpccmyb
 
 ## 🔧 Technologies & Tools
 
