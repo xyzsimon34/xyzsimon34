@@ -19,6 +19,8 @@ contract BlockchainEngineer {
 
 ![Simon Lin GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/JacobLinCool?theme=default&font=baloo&extension=null)
+
 ## 📝 Blogs
 
 - Personal website and blog:https://medium.com/@rzpccmyb
