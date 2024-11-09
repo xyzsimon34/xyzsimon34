@@ -20,9 +20,9 @@ contract BlockchainEngineer {
 ![Simon Lin GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34)
 
 
-## 📝 Blogs
+## 📝 Personal Website
 
-- Personal website and blog:https://medium.com/@rzpccmyb
+- Personal website and blog:https://mypersonalwebsite-production.up.railway.app/
 
 ## 🔧 Technologies & Tools
 
