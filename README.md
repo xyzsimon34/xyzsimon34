@@ -32,7 +32,6 @@ contract BlockchainEngineer {
 
 ![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=6aa6f8)
 
-## 🗂️ Highlight Projects
 
 
 
