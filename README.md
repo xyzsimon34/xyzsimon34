@@ -31,6 +31,8 @@ contract BlockchainEngineer {
 **Programming Languages:**
 
 ![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=6aa6f8)
+![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+
 
 
 
