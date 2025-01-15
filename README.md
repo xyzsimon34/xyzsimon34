@@ -1,21 +1,6 @@
 # Hello there 👋
 
-```
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.18;
-
-contract BlockchainEngineer {
-
-    string public name;
-    string public role;
-    string[] public language_spoken;
-
-    constructor() {
-        name = "Simon-Lin";
-        role = "Web3 enthusiast";
-        language_spoken = ["zh_CN"];
-    }
-```
+Bitcoin to the moon !
 
 ![Simon Lin GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34)
 
