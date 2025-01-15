@@ -1,6 +1,6 @@
 # Hello there 👋
 
-Bitcoin to the moon !
+An enthusiast of the Web3 industry and a Bitcoin HardHodler
 
 ![Simon Lin GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34)
 
