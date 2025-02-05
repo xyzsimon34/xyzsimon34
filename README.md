@@ -3,8 +3,8 @@
 An enthusiast of the Web3 industry and a Bitcoin HardHodler
 
 ## 📊 GitHub Stats
-![GitHub統計](https://github-readme-stats.vercel.app/api?username=xyzimon34&show_icons=true&theme=radical)
-
+![GitHub統計](https://github-readme-stats.vercel.app/api?username=xyzsimon34&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzsimon34&theme=radical&hide_border=true&layout=compact)
 
 ## 📝 Personal Website
 
