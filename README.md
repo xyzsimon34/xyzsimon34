@@ -1,6 +1,12 @@
-# Hello there 👋
+# 👋 Welcome to the Web3 Universe
 
-An enthusiast of the Web3 industry and a Bitcoin HardHodler
+> A passionate builder of blockchain technology and a decentralized future.
+
+## 🎯 About Me
+- 🔮 Web3 & Blockchain tech enthusiast
+- 💎 Bitcoin HODLer
+- 🛠️ DeFi & Smart Contract Dev
+- 🌐 Dapp Builder
 
 ## 📊 GitHub Stats
 ![GitHub統計](https://github-readme-stats.vercel.app/api?username=xyzsimon34&theme=radical&show_icons=true&hide_border=true&count_private=true)
