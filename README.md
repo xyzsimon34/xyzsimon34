@@ -10,7 +10,6 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=xyzsimon34&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzsimon34&theme=radical&hide_border=true&layout=compact&langs_count=6)
 
 ## 📝 Personal Website
