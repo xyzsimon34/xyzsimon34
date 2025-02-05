@@ -2,7 +2,8 @@
 
 An enthusiast of the Web3 industry and a Bitcoin HardHodler
 
-![Simon Lin GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34)
+## 📊 GitHub Stats
+![GitHub統計](https://github-readme-stats.vercel.app/api?username=xyzimon34&show_icons=true&theme=radical)
 
 
 ## 📝 Personal Website
