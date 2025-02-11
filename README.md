@@ -5,8 +5,7 @@
 ## 🎯 About Me
 - 🔮 Web3 & Blockchain tech enthusiast
 - 💎 Bitcoin HODLer
-- 🛠️ DeFi & Smart Contract Dev
-- 🌐 Dapp Builder
+- 🌐 Frontend Dapp Builder
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
