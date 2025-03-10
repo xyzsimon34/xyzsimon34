@@ -5,7 +5,7 @@
 ## 🎯 About Me
 - 🔮 Web3 & Blockchain Enthusiast  
 - 💎 Bitcoin HODLer & Smart Contract Developer  
-- 🌐 Frontend DApp Engineer | Solidity & TypeScript  
+- 🌐 Frontend DApp Engineer
 
 ## 🛠 Tech Stack  
 
