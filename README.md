@@ -3,15 +3,13 @@
 > 🚀 A passionate builder of blockchain technology and a decentralized future.
 
 ## 🎯 About Me
-- 🔮 Web3 & Blockchain Enthusiast  
-- 💎 Bitcoin HODLer & Smart Contract Developer  
-- 🌐 Frontend DApp Engineer
+- 💎 Bitcoin HODL  
+- 🌐 Frontend Engineer
 
 ## 🛠 Tech Stack  
 
 <table>
   <tr>
-    <td><strong>🔗 Blockchain & Smart Contracts</strong></td>
     <td><strong>💻 Frontend Development</strong></td>
   </tr>
   <tr>
