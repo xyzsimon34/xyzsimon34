@@ -3,8 +3,8 @@
 > 🚀 A passionate builder of blockchain technology and a decentralized future.
 
 ## 🎯 About Me
-- 💎 Bitcoin HODL  
-- 🌐 Frontend Engineer
+- Bitcoin HODL  
+- Frontend Engineer
 
 ## 🛠 Tech Stack  
 
