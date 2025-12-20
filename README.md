@@ -1,6 +1,4 @@
-# 👋 Welcome to the Web3 Universe
-
-> 🚀 A passionate builder of blockchain technology and a decentralized future.
+# Hi There
 
 ## 🎯 About Me
 - Bitcoin HODL  
