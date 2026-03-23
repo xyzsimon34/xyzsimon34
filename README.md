@@ -12,15 +12,6 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Code-Solidity-363636?style=flat&logo=solidity&logoColor=white" />  
-      <br>
-      <img src="https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />  
-      <br>
-      <img src="https://img.shields.io/badge/Library-Web3.js-F16822?style=flat&logo=javascript&logoColor=white" />  
-      <br>
-      <img src="https://img.shields.io/badge/Library-Ethers.js-0E76A8?style=flat&logo=javascript&logoColor=white" />  
-    </td>
-    <td>
       <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />  
       <br>
       <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />  
