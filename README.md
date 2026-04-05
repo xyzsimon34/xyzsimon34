@@ -22,17 +22,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🏗 Side Projects
-### 🔄 Blockchain Cross-Chain App  
-A decentralized cross-chain swapping application.  
-🚀 **Live Demo:** [blockchain-swap-practice.vercel.app](https://blockchain-swap-practice.vercel.app/)  
-📂 **Source Code:** (Coming soon...)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyzsimon34&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzsimon34&theme=radical&hide_border=true&layout=compact&langs_count=6)
